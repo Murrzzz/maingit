@@ -31,7 +31,7 @@
 		<DOCK ID="25" VALUE="32770 0 1 2 0 0 0 0 479 46 491 66 970 90 491 66 970 90"/>
 	</DOCKS>
 	<EDITWINDOWS>
-		<WINDOW NAME="maingit.c" TITLE="maingit.c" X="0" Y="0" WIDTH="844" HEIGHT="409" LINENO="10"/>
+		<WINDOW NAME="maingit.c" TITLE="maingit.c" X="0" Y="0" WIDTH="844" HEIGHT="409" LINENO="12"/>
 		<ACTIVE NAME="C:\Users\Administrator\Desktop\maingit\maingit.c" TITLE="maingit.c"/>
 	</EDITWINDOWS>
 	<HISTORY TYPE="FIND">

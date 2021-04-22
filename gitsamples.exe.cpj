@@ -1,0 +1,15 @@
+<CC386PROJECT>
+	<VERSION ID="5"/>
+	<TARGET TITLE="gitsamples">
+		<PROPERTIES>
+			<PROP ID="__PROJECTTYPE">0</PROP>
+		</PROPERTIES>
+		<FILES>
+			<FOLDER TITLE="Include Files">
+				<FILE NAME="maingit.c" TITLE="maingit.c" CLEAN="0"/>
+			</FOLDER>
+			<FOLDER TITLE="Source Files">
+			</FOLDER>
+		</FILES>
+	</TARGET>
+</CC386PROJECT>
